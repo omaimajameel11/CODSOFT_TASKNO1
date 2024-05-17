@@ -14,7 +14,7 @@ These instructions will help you set up and run the chatbot on your local machin
 ### Prerequisites
 - Python 3.x
 
-### Usage
+## Usage
 
 When you run the chatbot script, it will prompt you to enter a message. The chatbot will respond based on the predefined rules set in the script. 
 
@@ -34,7 +34,7 @@ I'm just a bunch of code, so I don't have feelings, but thank you for asking!
 
 Goodbye! Have a great day!
 
-### Customization
+## Customization
 
 You can customize the chatbot by adding more if-else conditions to handle different user inputs. For example, to handle a new query like "What is the weather?", you can add:
 
@@ -43,7 +43,11 @@ elif user_input.lower() == 'what is the weather?':
     print("I don't have access to the internet right now, so I can't check the weather for you.")
 ```
 
-### Output
+## Output
 
-[Screenshot 2024-05-17 091317](https://github.com/omaimajameel11/CODSOFT_TASKNO1/assets/167120544/16c1ee85-7b61-4502-9e4c-951219427c1d)
 
+
+![Screenshot 2024-05-17 091317](https://github.com/omaimajameel11/CODSOFT_TASKNO1/assets/167120544/60b4dce8-b58d-4b80-a221-417e7301f181)
+
+
+Thank you!
