@@ -21,11 +21,17 @@ When you run the chatbot script, it will prompt you to enter a message. The chat
 Example interaction:
 
 Hello! I'm a simple chatbot. How can I help you today?
+
 > What is your name?
+
 My name is SimpleBot.
+
 > How are you?
+
 I'm just a bunch of code, so I don't have feelings, but thank you for asking!
+
 > Bye
+
 Goodbye! Have a great day!
 
 ### Customization
