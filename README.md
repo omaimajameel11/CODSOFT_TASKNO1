@@ -1,6 +1,6 @@
 # CODSOFT_TASKNO1
 
-# Simple Chatbot
+# Chatbot with rule-based responses
 This is a simple chatbot implemented in Python. The chatbot responds to user inputs based on predefined rules using if-else statements. This project is designed to help you understand the basics of natural language processing (NLP) and conversation flow.
 
 ## Features
