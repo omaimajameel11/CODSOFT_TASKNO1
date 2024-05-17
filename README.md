@@ -43,4 +43,7 @@ elif user_input.lower() == 'what is the weather?':
     print("I don't have access to the internet right now, so I can't check the weather for you.")
 ```
 
-Thank you!
+### Output
+
+[Screenshot 2024-05-17 091317](https://github.com/omaimajameel11/CODSOFT_TASKNO1/assets/167120544/16c1ee85-7b61-4502-9e4c-951219427c1d)
+
